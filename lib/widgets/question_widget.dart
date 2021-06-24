@@ -49,6 +49,14 @@ class _QuestionWidgetState extends State<QuestionWidget> {
   @override
   void initState() {
     super.initState();
+    _isLoading = true;
+    getInitialData();
+  }
+
+  @override
+  void didUpdateWidget(covariant QuestionWidget oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    _isLoading = true;
 
     getInitialData();
   }

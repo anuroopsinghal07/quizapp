@@ -157,6 +157,7 @@ class _AnswerBoxState extends State<AnswerBox> {
 
   Widget _buildFront() {
     var container = Container(
+      padding: const EdgeInsets.all(5),
       height: itemHeight,
       width: itemWidth,
       margin: const EdgeInsets.all(10),

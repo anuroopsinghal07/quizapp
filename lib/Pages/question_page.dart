@@ -33,7 +33,7 @@ class _QuestionPageState extends State<QuestionPage> {
   void didUpdateWidget(covariant QuestionPage oldWidget) {
     print("didUpdateWidget");
     super.didUpdateWidget(oldWidget);
-
+    _isLoading = true;
     _fetchInitialData();
   }
 
