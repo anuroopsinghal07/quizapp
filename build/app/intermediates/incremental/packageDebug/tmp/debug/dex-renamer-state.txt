@@ -1,4 +1,4 @@
-#Thu Jun 24 21:51:57 IST 2021
+#Thu Jun 24 22:36:57 IST 2021
 base.0=/Users/anuroopsinghal/Development/Flutter/Projects/TataQuiz/GitHub/quizapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

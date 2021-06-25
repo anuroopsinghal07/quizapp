@@ -4,24 +4,6 @@ A new Flutter project - QuizApp
 
 Notes:
 
-Assignment - use the 2 jsons provided to populate the questions in quiz
-
-Comment - Two json files for two questions are added in assets folders. If you would lile to add more questions, just add more json files in assets folder by incrementing number in file name like for third question - question3.json.
-
-Assignment -  the quiz will have 3 layouts and can be changed with 3 upfront buttons provided in screen: vertical, horizontal and grid
-
-Comment - 3 layouts can be chnages from settings button on question screen.
-
-Assignment - the effects and animations to be achieved as much as you can
-
- but the basic zoom in out of an option after click has to be there
-
- the correct and incorrect animation can be a placeholder animation
-
-Comment - Animations are added, please run app to see it.
-
-Assignment -
-
 Task Points:
 
  use the 2 jsons provided to populate the questions in quiz
