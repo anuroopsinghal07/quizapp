@@ -29,7 +29,8 @@ class AnswerDataProvider {
     List<Answer> list =
         res.isNotEmpty ? res.map((c) => Answer.fromMap(c)).toList() : [];
 
-    return List.from(list.reversed);
+    //return List.from(list.reversed);
+    return list;
   }
 
   String getTableName() {

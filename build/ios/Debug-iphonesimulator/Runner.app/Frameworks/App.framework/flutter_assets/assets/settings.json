@@ -1,5 +1,5 @@
 {
     "showGetReadyAnimation": true,
-    "showTimer": false,
+    "showTimer": true,
     "timerDuration": 100
   }

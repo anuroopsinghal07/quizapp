@@ -73,6 +73,9 @@ flutter:
   assets:
     - assets/question1.json
     - assets/question2.json
+    - assets/question3.json
+    - assets/question4.json
+
     - assets/settings.json
 
   #   - images/a_dot_burr.jpeg
